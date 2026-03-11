@@ -9,4 +9,4 @@ It includes a responsive frontend, a functional contact form, and backend routin
 - **Tools:** Git, GitHub  
 
 ## 📬 Contact
-Messages can be sent through the contact form, or reach me at **your email here**.
+Messages can be sent through the contact form.
